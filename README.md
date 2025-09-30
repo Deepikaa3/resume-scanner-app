@@ -3,9 +3,9 @@ An **AI-powered Resume Scanner** built with **Power Apps, Power Automate, ShareP
 
 ## 🔑 **Two-Way Solution**
 
-* 🎯 **For Candidates** → Upload resumes, get **ATS-style scores**, **AI-driven suggestions**, and **improvement areas** tailored to specific roles.
-* 🏢 **For Recruiters** → Upload **bulk resumes + job description**, automatically generate **ATS scores**, **matched skills**, and **shortlist ranking**.
-* 📊 **For Management** → View **insights & KPIs** with integrated **Power BI dashboards**.
+* **For Candidates** → Upload resumes, get **ATS-style scores**, **AI-driven suggestions**, and **improvement areas** tailored to specific roles.
+* **For Recruiters** → Upload **bulk resumes + job description**, automatically generate **ATS scores**, **matched skills**, and **shortlist ranking**.
+* **For Management** → View **insights & KPIs** with integrated **Power BI dashboards**.
 
 
 ## ✨ **Features**
@@ -92,16 +92,16 @@ flowchart LR
 5. Results stored in **SharePoint** and visualized in **Power BI**
 
 
-## 📸 Screenshots
+## 📸 **Screenshots**
 
 ### Candidate Side – Resume Suggestions
-![Home Screen](Power Apps/screenshots/Screenshot 2025-09-30 101015.png)
-![Candidate Resume Upload](Power Apps/screenshots/Screenshot 2025-09-30 113757.png)
+[![Home Screen](Power Apps/screenshots/Screenshot 2025-09-30 101015.png)]
+[![Candidate Resume Upload](Power Apps/screenshots/Screenshot 2025-09-30 113757.png)]
 
 ### Recruiter Side – Shortlisting Dashboard
-![Recruiter Upload](Power Apps/screenshots/Screenshot 2025-09-30 101154.png)
-![Recruiter Output](Power Apps/screenshots/Screenshot 2025-09-30 113132.png)
-![Recruiter Dashboard](Power Apps/screenshots/Screenshot 2025-09-30 113853.png)
+[![Recruiter Upload](Power Apps/screenshots/Screenshot 2025-09-30 101154.png)]
+[![Recruiter Output](Power Apps/screenshots/Screenshot 2025-09-30 113132.png)]
+[![Recruiter Dashboard](Power Apps/screenshots/Screenshot 2025-09-30 113853.png)]
 
 
 ## 🎥 **Live Demo**
