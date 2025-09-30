@@ -1,7 +1,5 @@
-# resume-scanner-app
+# Resume-Scanner-App
 An **AI-powered Resume Scanner** built with **Power Apps, Power Automate, SharePoint, and Power BI** to streamline both **candidates’ resume improvement** and **recruiters’ shortlisting process**.
-
----
 
 ## 🔑 **Two-Way Solution**
 
@@ -9,7 +7,6 @@ An **AI-powered Resume Scanner** built with **Power Apps, Power Automate, ShareP
 * 🏢 **For Recruiters** → Upload **bulk resumes + job description**, automatically generate **ATS scores**, **matched skills**, and **shortlist ranking**.
 * 📊 **For Management** → View **insights & KPIs** with integrated **Power BI dashboards**.
 
----
 
 ## ✨ **Features**
 
@@ -42,7 +39,6 @@ An **AI-powered Resume Scanner** built with **Power Apps, Power Automate, ShareP
   * 🎯 **Shortlisted vs non-shortlisted ratio**
 * **Visual reports embedded directly** into **Power Apps**.
 
----
 
 ## 🏗️ **System Architecture**
 
@@ -61,8 +57,6 @@ flowchart LR
     E --> F
 ```
 
----
-
 ## ⚙️ **Tech Stack**
 
 * **Power Apps** → Frontend app for candidates & recruiters
@@ -71,7 +65,6 @@ flowchart LR
 * **SharePoint (List & Document Library)** → Storage for resumes, job descriptions, and analysis results
 * **Power BI** → Visual dashboards for recruiter insights
 
----
 
 ## 🔄 **How It Works**
 
@@ -98,20 +91,11 @@ flowchart LR
    * 🏅 **Shortlisting Rank**
 5. Results stored in **SharePoint** and visualized in **Power BI**
 
----
 
-## 📸 **Screenshots / Demo**
+## 🎥 **Live Demo**
 
-> *(Add screenshots or demo video link here)*
+Watch the demo here: [▶️ Click to view](https://drive.google.com/file/d/1rbOf26NqDS2Io7d72pxmPWZ5rV0ZmH0e/view?usp=sharing)
 
-Recommended screenshots:
-
-* 📂 Candidate **resume upload screen**
-* 📂 Recruiter **bulk resume upload screen**
-* 📝 **AI-generated improvement suggestions**
-* 📊 **Power BI dashboard** integrated into Power Apps
-
----
 
 ## 🧠 **Key Learnings & Optimizations**
 
@@ -120,7 +104,6 @@ Recommended screenshots:
 * Embedded **Power BI dashboards inside Power Apps** for seamless recruiter experience
 * Resolved **delegation & large dataset issues** using flows for row counts & aggregation
 
----
 
 ## 🚀 **Future Enhancements**
 
@@ -130,7 +113,6 @@ Recommended screenshots:
 * 📧 Provide recruiter **auto-email notifications** with shortlisted resumes
 * 🌐 Build a **public demo version** with sample data
 
----
 
 ## 🛠️ **Setup Guide (For Re-Creation)**
 
@@ -156,7 +138,6 @@ Recommended screenshots:
 * Build visuals: **Resume Score Distribution, Top Skills, Shortlisted Candidates**
 * **Publish & Embed** into Power Apps
 
----
 
 ## 🙌 **Acknowledgements**
 
@@ -164,9 +145,8 @@ Recommended screenshots:
 * 🤖 **OpenAI/GPT** → for text analysis & smart resume suggestions
 * 📝 Inspired by **ATS resume scanners** & **recruiter workflow optimization**
 
----
 
 ## 📢 **Connect**
 
-If you found this project useful, feel free to ⭐ **star the repo** and connect with me on **[LinkedIn](#)** 🚀
+If you found this project useful, feel free to ⭐ **star the repo** and connect with me on **[LinkedIn](https://www.linkedin.com/in/deepikaa-vadivel-09ba2037a/)** 🚀
 
