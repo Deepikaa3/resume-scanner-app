@@ -33,10 +33,10 @@ An **AI-powered Resume Scanner** built with **Power Apps, Power Automate, ShareP
 
 * **KPIs for recruiter-side analysis**, including:
 
-  * 📈 **Number of resumes processed**
-  * 🏅 **Top skills matched** across applicants
-  * 📊 **Distribution of resume scores**
-  * 🎯 **Shortlisted vs non-shortlisted ratio**
+  * **Number of resumes processed**
+  * **Top skills matched** across applicants
+  * **Distribution of resume scores**
+  * **Shortlisted vs non-shortlisted ratio**
 * **Visual reports embedded directly** into **Power Apps**.
 
 
@@ -94,7 +94,7 @@ flowchart LR
 
 ## 🎥 **Live Demo**
 
-Watch the demo here: [▶️ Click to view](https://drive.google.com/file/d/1rbOf26NqDS2Io7d72pxmPWZ5rV0ZmH0e/view?usp=sharing)
+Watch the demo here: [▶️ Click to view](https://drive.google.com/drive/folders/1X_Z9jqwYLQ6syLvILCVq8z7KL3AFk9wf?usp=sharing)
 
 
 ## 🧠 **Key Learnings & Optimizations**
@@ -107,11 +107,11 @@ Watch the demo here: [▶️ Click to view](https://drive.google.com/file/d/1rbO
 
 ## 🚀 **Future Enhancements**
 
-* 🌍 Add **multi-language resume support**
-* 🔗 Integrate **LinkedIn / Indeed API** for live job-role requirements
-* 📄 Enable **export to PDF** for candidate improvement reports
-* 📧 Provide recruiter **auto-email notifications** with shortlisted resumes
-* 🌐 Build a **public demo version** with sample data
+* Add **multi-language resume support**
+* Integrate **LinkedIn / Indeed API** for live job-role requirements
+* Enable **export to PDF** for candidate improvement reports
+* Provide recruiter **auto-email notifications** with shortlisted resumes
+* Build a **public demo version** with sample data
 
 
 ## 🛠️ **Setup Guide (For Re-Creation)**
@@ -141,9 +141,9 @@ Watch the demo here: [▶️ Click to view](https://drive.google.com/file/d/1rbO
 
 ## 🙌 **Acknowledgements**
 
-* 💡 **Microsoft Power Platform** → for enabling low-code AI-driven apps
-* 🤖 **OpenAI/GPT** → for text analysis & smart resume suggestions
-* 📝 Inspired by **ATS resume scanners** & **recruiter workflow optimization**
+* **Microsoft Power Platform** → for enabling low-code AI-driven apps
+* **OpenAI/GPT** → for text analysis & smart resume suggestions
+* Inspired by **ATS resume scanners** & **recruiter workflow optimization**
 
 
 ## 📢 **Connect**
