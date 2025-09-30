@@ -90,19 +90,7 @@ flowchart LR
    * ✅ **Skills matched / missing**
    * 🏅 **Shortlisting Rank**
 5. Results stored in **SharePoint** and visualized in **Power BI**
-
-
-## 📸 **Screenshots**
-
-### Candidate Side – Resume Suggestions
-[![Home Screen](Power Apps/screenshots/Screenshot 2025-09-30 101015.png)]
-[![Candidate Resume Upload](Power Apps/screenshots/Screenshot 2025-09-30 113757.png)]
-
-### Recruiter Side – Shortlisting Dashboard
-[![Recruiter Upload](Power Apps/screenshots/Screenshot 2025-09-30 101154.png)]
-[![Recruiter Output](Power Apps/screenshots/Screenshot 2025-09-30 113132.png)]
-[![Recruiter Dashboard](Power Apps/screenshots/Screenshot 2025-09-30 113853.png)]
-
+   
 
 ## 🎥 **Live Demo**
 
